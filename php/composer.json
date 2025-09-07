@@ -1,0 +1,19 @@
+{
+    "name": "qyroai-sdk-example/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "QyroaiSDKExample\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Somsubhra Bairi",
+            "email": "somsubhra.bairi@gmail.com"
+        }
+    ],
+    "require": {
+        "qyroai/qyro-php-sdk": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
