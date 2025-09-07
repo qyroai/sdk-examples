@@ -9,10 +9,10 @@ import (
 )
 
 const (
-	BASE_URL       = "http://localhost:3000"
-	API_KEY_ID     = "68bd1f1fe5bcc3beb6628a2d"
-	API_KEY_SECRET = "GipH9XMNTBJkaQGD9ExQGdixiXWgvgZgbCuu35igwBAttbUPuqCkHpwkrQdrKmQVzDZ1kF9xxpzkLibAXcsOJVjy6fHD0aXeAdyxbzSUJmWpetPY10o6fD21VsfWgZ69"
-	ASSISTANT_ID   = "68bcf8d9ef381744eced70b4"
+	BASE_URL       = "https://qyroai.com"
+	API_KEY_ID     = "<>"
+	API_KEY_SECRET = "<>"
+	ASSISTANT_ID   = "<>"
 )
 
 func main() {
